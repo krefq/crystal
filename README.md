@@ -1,4 +1,6 @@
-# Meet Crystal, the beautifully minimalistic writing tool designed for authors, bloggers, and creatives who crave clarity and focus. Free from distractions, Crystal provides a serene, streamlined space where your words take center stage. #
+# crystal #
+
+Meet Crystal, the beautifully minimalistic writing tool designed for authors, bloggers, and creatives who crave clarity and focus. Free from distractions, Crystal provides a serene, streamlined space where your words take center stage. 
 
 Crafted with simplicity in mind, Crystal eliminates the noise of traditional word processors. No clutter. No confusion. Just you, your thoughts, and the blank page. Whether you're drafting your next novel or capturing fleeting inspiration, Crystal helps you enter flow state faster and stay there longer.
 
